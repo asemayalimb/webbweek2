@@ -10,7 +10,7 @@ if (!isset($_GET['name']))
 }
 elseif (isset($_POST['logout']) && $_POST['logout'] == 'Logout')
 {
-    header('Location: index.php');
+    header('Location: index.html');
 }
 elseif (isset($_POST['make']) && isset($_POST['year'])
     && isset($_POST['mileage'])) {
