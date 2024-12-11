@@ -41,7 +41,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Ambika Patidar(437aadef)'s Login Page</title>
+    <title>Assemay Alimbayeva 0475e36e's Login Page</title>
 </head>
 <body>
 <div class="container">
